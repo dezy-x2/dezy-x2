@@ -15,7 +15,6 @@ Languages I know include:
 * Haskell
 * HTML5
 * CSS3
-* 
 
 <!---
 dezy-x2/dezy-x2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
