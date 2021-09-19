@@ -12,6 +12,8 @@ Languages I know include:
 * Javascript
 * Python
 * Java
+* Ti Basic
+* Typescript
 * Haskell
 * HTML5
 * CSS3
