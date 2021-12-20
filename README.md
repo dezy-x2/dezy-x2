@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Desmond
-- 👀 I’m interested in Server-Side web development
-- 🌱 I’m currently learning to use Nodejs for back end development and working on multiple projects with it
-- 💞️ I’m looking to collaborate on some front end develpment because I'm not to great at it and would love if someone could help me to design my front ends
+- 👀 I’m interested in most types of things, check out my profile
+- 🌱 I’m currently doing a bunch of stuff but I'm going to be self-studying AP Comp Sci at my school
 - 📫 You can email me at df.dezmond9@gmail.com or you can call/text me at (302)803-2547
 
 I am currently in high school and only began learning to program in late July of 2020. Since then I have been learning web development working with Reactjs for my
@@ -15,6 +14,7 @@ Languages I know include:
 * Ti Basic
 * Typescript
 * Haskell
+* R
 * HTML5
 * CSS3
 
