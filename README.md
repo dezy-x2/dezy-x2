@@ -6,6 +6,7 @@
 I am currently in high school and only began learning to program in late July of 2020. Since then I have been learning web development working with Reactjs for my
 front end and using Nodejs with Expressjs for my back end. I also have learned some Python for side projects. I am always looking to learn more and feel free to 
 reach out to me with any questions.
+I am always working on different projects and am not limiting my interests you can check out my repos to see my most recent interest.
 
 Languages I know include:
 * Javascript
@@ -15,6 +16,7 @@ Languages I know include:
 * Typescript
 * Haskell
 * R
+* C
 * HTML5
 * CSS3
 
